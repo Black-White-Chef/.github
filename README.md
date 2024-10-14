@@ -26,7 +26,7 @@
 ## 웹 개발 팀 소개
 |  손석영  |  조준영  |  김수진  |
 |:--------:|:--------:|:--------:|
-|          |![image](https://github.com/user-attachments/assets/f7371813-8e6b-4b26-8b78-5d8cbaefca8d)|          |
+|          |<img src="https://github.com/user-attachments/assets/f7371813-8e6b-4b26-8b78-5d8cbaefca8d" alt="image" width="300">|          |
 |github.com/coder-ssy|github.com/JunYoung02|github.com/sjkim15|
 |Backend<br>Devops|Frontend|Frontend|
 
