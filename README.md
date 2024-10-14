@@ -23,18 +23,25 @@
 |  손석영  |  조준영  |  김수진  |
 |:--------:|:--------:|:--------:|
 |          |          |          |
-|          |          |          |
-|          |          |          |
+|github.com/coder-ssy|github.com/JunYoung02|github.com/sjkim15|
+|Backend<br>Devops|Frontend|Frontend|
 
 
 ## 프로젝트 소개
-
+흑백 요리사라는 넷플릭스 프로그램이 방영된 후 출연자들의 식당을 찾아 가는 손님들이 많이 늘어났습니다. 
+백수저 20명, 흑수저 20명 총 40명의 출연자들의 식당을 찾기 쉽게 정리해 두었습니다. 
 
 # 시작 가이드
 ### Requirements
+For building and running the application you need:
+- Node.js 20.17.0
+- yarn 1.22.22
 
 ### Installation
-
+```bash
+$ git clone https://github.com/Black-White-Chef/full-project.git
+$ cd full-project
+```
 #### Backend
 
 #### Frontend
@@ -73,18 +80,50 @@
 
 
 ### Etc
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+<span>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-c298bb?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white">
+</span>
+
+
+# 화면 구성 📺
+### 💮 메인화면
+![image](https://github.com/user-attachments/assets/d03e7c25-c0a7-474a-a58c-29900180ad99)
+![image](https://github.com/user-attachments/assets/a68f9f2f-5971-4b4d-adff-3891f87305dc)
+
+
+### 💮 응원 메시지 작성 화면
+![image](https://github.com/user-attachments/assets/20a29bc7-9c43-47d7-bead-b8b19b1b2a56)
 
 
 
 
-# 화면 구성
+### 💮 피드백 메시지 작성 화면
+![image](https://github.com/user-attachments/assets/451ba05f-71a6-4cb6-a443-55813fa1b4c6)
 
-# 주요 기능
 
-# 아키텍처
+
+
+# 주요 기능 🗃️
+⭐ 요리사 리스트 출력
+- 40명의 요리사들의 프로필 사진 제공
+- 마우스를 hover하면 해당 요리사의 한 줄 소개와 이름이 보인다
+- 사진을 클릭하면 해당 요리사의 식당 지도로 이동
+
+⭐ 응원 모달 기능
+- 닉네임 생성 후 응원 메시지 작성
+- slider로 사용자들이 작성한 응원 메시지가 돌아간다
+
+
+⭐ 피드백 모달 기능
+- 페이지 접속 후 30 초 뒤에 피드백 모달 창이 뜬다
+- 피드백 작성
+
+
+⭐ 영어 변경 기능
+- 화면 오른쪽 상단에 있는 English버튼을 누르면 영어 버전으로 변경
+
