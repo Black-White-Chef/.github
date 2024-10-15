@@ -47,9 +47,35 @@ For building and running the application you need:
 $ git clone https://github.com/Black-White-Chef/full-project.git
 $ cd full-project
 ```
+
+#### Env Settings
+```
+DATABASE_NAME=
+DATABASE_USER=
+DATABASE_PASS=
+DATABASE_PORT=
+SECRET_KEY=
+
+DJANGO_ALLOWED_HOSTS=
+DEBUG=
+
+CORS_ALLOWED_ORIGINS=
+```
+
 #### Backend
+```bash
+cd backend
+docker compose --build
+chmod +x wait for sh
+```
 
 #### Frontend
+```bash
+cd frontend
+yarn
+yarn build
+docker compose up --build
+```
 
 # Stacks
 ### Frontend
