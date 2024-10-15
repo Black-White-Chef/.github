@@ -19,7 +19,7 @@
 
 프론트 서버: 
 
-백엔드 서버:
+백엔드 서버: 
 
 
 
@@ -66,7 +66,7 @@ CORS_ALLOWED_ORIGINS=
 ```bash
 cd backend
 docker compose --build
-chmod +x wait for sh
+chmod +x wait-for-it.sh
 ```
 
 #### Frontend
