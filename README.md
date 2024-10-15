@@ -64,17 +64,17 @@ CORS_ALLOWED_ORIGINS=
 
 #### Backend
 ```bash
-cd backend
-docker compose --build
-chmod +x wait-for-it.sh
+$ cd backend
+$ docker compose --build
+$ chmod +x wait-for-it.sh
 ```
 
 #### Frontend
 ```bash
-cd frontend
-yarn
-yarn build
-docker compose up --build
+$ cd frontend
+$ yarn
+$ yarn build
+$ docker compose up --build
 ```
 
 # Stacks
