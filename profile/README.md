@@ -21,17 +21,6 @@
 
 백엔드 서버: 
 
-
-
-## 웹 개발 팀 소개
-|  손석영  |  조준영  |  김수진  |
-|:--------:|:--------:|:--------:|
-|          |<img src="https://github.com/user-attachments/assets/f7371813-8e6b-4b26-8b78-5d8cbaefca8d" width="100">|<img src="https://github.com/user-attachments/assets/7e423526-57de-4637-adc8-c3d0530d89f4" width="100">|
-|github.com/coder-ssy|github.com/JunYoung02|github.com/sjkim15|
-|Backend<br>Devops|Frontend|Frontend|
-
-
-
 ## 프로젝트 소개
 흑백 요리사라는 넷플릭스 프로그램이 방영된 후 출연자들의 식당을 찾아 가는 손님들이 많이 늘어났습니다. 
 백수저 20명, 흑수저 20명 총 40명의 출연자들의 식당을 찾기 쉽게 정리해 두었습니다. 
@@ -157,3 +146,10 @@ $ docker compose up --build
 
 ⭐ 영어 변경 기능
 - 화면 오른쪽 상단에 있는 English버튼을 누르면 영어 버전으로 변경
+
+## 팀 멤버
+|  손석영  |  조준영  |  김수진  |
+|:--------:|:--------:|:--------:|
+|          |<img src="https://github.com/user-attachments/assets/f7371813-8e6b-4b26-8b78-5d8cbaefca8d" width="100">|<img src="https://github.com/user-attachments/assets/7e423526-57de-4637-adc8-c3d0530d89f4" width="100">|
+|github.com/coder-ssy|github.com/JunYoung02|github.com/sjkim15|
+|Backend<br>Devops|Frontend|Frontend|
